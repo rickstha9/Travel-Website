@@ -1,0 +1,33 @@
+@media (max-width:1000px){
+	.header-contact{
+		display: none;
+	}
+}
+@media (max-width:1200px){
+	.feature-list .price{
+		margin-left: 50px;
+	}
+
+}
+@media (max-width:765px){
+	.features{
+		    background: #f3f3f3;
+    padding: 50px 40px;
+
+	}
+	.for-responsive{
+		margin-right: 10px;
+	}
+	.keyword-search .search-container{
+		width: 80%;
+	}
+	
+}
+@media (max-width:364px){
+	.client h2{
+		text-align: center;
+	}
+
+}
+
+	
